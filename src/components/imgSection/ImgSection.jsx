@@ -9,7 +9,7 @@ const SectionContainer = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  padding-bottom: 100px;
+  padding: 100px 0;
 `;
 
 const SectionInner = styled.div`
